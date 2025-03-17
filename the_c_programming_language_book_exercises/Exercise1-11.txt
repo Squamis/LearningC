@@ -1,0 +1,7 @@
+some ways I would test the word count program.
+
+1. special charactures
+2.charactures in other languages
+3. ultra long program
+4. program that has EOF somehow in its middle
+5. numbers
